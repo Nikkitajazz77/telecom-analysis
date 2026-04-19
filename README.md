@@ -1,8 +1,4 @@
-# telecom-analysis
-EEnd-to-end data analysis project with Exploratory Data Analysis (EDA) of a telecommunications company to uncover usage patterns, customer segments, and opportunities for plan optimization.
-uí tienes un README.md completo, profesional y listo para pegar en tu repo 👇
-
-# 📊 Telecom Analysis — End-to-End Data Analysis (EDA)
+# Telecom Analysis
 
 ## Project Objective
 This project aims to analyze customer behavior in a telecommunications company to understand usage patterns, identify customer segments, detect outliers, and generate actionable business insights to optimize service plans and improve customer experience.
@@ -21,7 +17,7 @@ The analysis is based on three datasets:
 - **usage.csv**  
   Detailed user activity including calls (duration) and messages (length).
 
-## 🔄 Analysis Workflow
+## Analysis Workflow
 The project follows an end-to-end data analysis process:
 
 1. **Step 1: Load & Explore**
