@@ -3,8 +3,6 @@
 ## Project Objective
 This project aims to analyze customer behavior in a telecommunications company to understand usage patterns, identify customer segments, detect outliers, and generate actionable business insights to optimize service plans and improve customer experience.
 
----
-
 ## Datasets Used
 The analysis is based on three datasets:
 
@@ -73,8 +71,3 @@ You can run this project using:
 ##  Reproducibility Guide
 Clone this repository:
 git clone https://github.com/your-username/telecom-analysis.git
-
-
-
-Si quieres, el siguiente paso sería:
-👉 :contentReference[oaicite:0]{index=0} 💼🔥
